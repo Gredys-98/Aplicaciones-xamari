@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicaciones.pagina2">
+    <ContentPage.Content>
+        <StackLayout Background=" #000000 ">
+            <Label Text="Bienvenidos sigue las intrucciones adivinaremos tu fecha de cumpleaños" TextColor="White" FontSize="25"
+                   HorizontalOptions="Center" />
+            <Label Text=" Piensa en el dia  y la fecha que naciste" FontSize="14" TextColor="White" />
+            <Label Text=" Ahora multiplica la fecha por (20) " FontSize="14" TextColor="White"/>
+            <Label Text=" Ahora sumale 73" FontSize="14" TextColor="White"/>
+            <Label Text=" Ahora multiplicalo por (5)" FontSize="14" TextColor="White"/>
+            <Label Text=" Ahora sumale la fecha en que naciste" FontSize="14" TextColor="White"/>
+            <Entry Placeholder=" Ahora ingresa el resultado de la operacion" FontSize="14" x:Name="numero" TextColor="White" />
+            <Button Text="push" Clicked="Button_Clicked" x:Name="x" FontSize="20"  BackgroundColor="DarkMagenta" TextColor="White"/>
+            <Entry Placeholder="dia " x:Name="sep" TextColor="White"/>
+            <Entry Placeholder="mes" x:Name="mes" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

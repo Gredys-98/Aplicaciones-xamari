@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicaciones.pagina1">
+    <StackLayout  Background=" #000000 ">
+        <Label Text="Bienvenido adivinaremos un numero en el que piensas... Sigue intrucciones" FontSize="24" HorizontalOptions="Center"
+               TextColor="White"/>
+        <Label Text="Piensa en un numero" TextColor="White"/>
+        <Label Text="Ahora multiplicalo por 2" TextColor="White"/>
+        <Label Text="Sumale 8" TextColor="White"/>
+        <Label Text="Multiplicalo por 5" TextColor="White"/>
+        <Label Text="Ahora dame el resultado" x:Name="numero" TextColor="White"/>
+        <Entry Placeholder="Resultado" x:Name="resultado" TextColor="White"/>
+        <Button Text="push" Clicked="Button_Clicked" FontSize="20" TextColor="White" BackgroundColor="DarkMagenta"/>
+        <Entry Placeholder="El numero es" x:Name="numero2" TextColor="White"/>
+       </StackLayout> 
+
+</ContentPage>

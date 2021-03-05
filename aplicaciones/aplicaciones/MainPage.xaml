@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicaciones.MainPage"
+             Visual="Material">
+
+
+    <StackLayout   Background="#000000" >
+        <Label Text="Intro xamarin" FontSize="30" VerticalOptions="Center" HorizontalOptions="Center"  TextColor="White" />
+        <Button Text="Adivina un numero" x:Name="boton1" Clicked="boton1_Clicked" FontSize="14" BackgroundColor="DarkMagenta"  TextColor="White"/>
+        <Button Text="Adivina tu fecha " x:Name="boton2" Clicked="boton2_Clicked" FontSize="14" BackgroundColor="DarkMagenta"  TextColor="White"/>
+        <Label Text=" Ingenieria en Sistemas " FontSize="24" VerticalOptions="Center" HorizontalOptions="Center"  TextColor="White" />
+        <Label Text="Carrillo" FontSize="24" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"  TextColor="White"/>
+
+
+    </StackLayout>
+
+</ContentPage>

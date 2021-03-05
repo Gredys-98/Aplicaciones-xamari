@@ -1,0 +1,16 @@
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.csprojAssemblyReference.cache
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\bin\Debug\netstandard2.0\aplicaciones.deps.json
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\bin\Debug\netstandard2.0\aplicaciones.dll
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\bin\Debug\netstandard2.0\ref\aplicaciones.dll
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\bin\Debug\netstandard2.0\aplicaciones.pdb
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\pagina1.xaml.g.cs
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\pagina2.xaml.g.cs
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.AssemblyInfoInputs.cache
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.AssemblyInfo.cs
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.dll
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\ref\aplicaciones.dll
+C:\Users\PAOLA CARRILLO\Desktop\poyecto xamarin\aplicaciones\aplicaciones\aplicaciones\obj\Debug\netstandard2.0\aplicaciones.pdb
